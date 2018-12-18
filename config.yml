@@ -1,0 +1,7 @@
+Messages:
+  Commands:
+      NoPermission: "&7[&5AIP&7]&c No permission."
+      ReloadCommand: "&7[&5AIP&7]&a&l Reloaded!"
+  Events:
+      InvisSplash: "&7[&5AIP&7]&c You may not splash &7[&bINVIS&7]"
+      InvisDrink: "&7[&5AIP&7]&c You may not drink &7[&bINVIS&7]"

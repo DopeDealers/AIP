@@ -1,0 +1,8 @@
+name: InvisibilityBlocker
+main: net.dopedealers.spigot.Registry
+author: DopeDealers
+version: 1.0.0-SNAPSHOT
+
+commands:
+  aip:
+    aliases: [antiinvis, ainvispot]
